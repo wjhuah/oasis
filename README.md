@@ -1,2 +1,2 @@
-# BronzeRoBERTa
-A RoBERTa for Bronze Script
+# OASIS
+A BERT model for Bronze Script
